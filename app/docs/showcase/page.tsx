@@ -8,6 +8,11 @@ export const metadata = generateMetadata("Showcase", "Showcase for prompt-kit.")
 
 const projects = [
   {
+    title: "mesurer.dev",
+    href: "https://mesurer.dev",
+    thumbnail: "https://mesurer.dev/og.png",
+  },
+  {
     title: "webclaw.dev",
     href: "https://webclaw.dev",
     thumbnail:
@@ -26,7 +31,8 @@ const projects = [
   {
     title: "ottogrid.ai",
     href: "https://ottogrid.ai",
-    thumbnail: "https://ottogrid.ai/opengraph-image.png?2ca0b60807e14ef5",
+    thumbnail:
+      "https://image.thum.io/get/width/1200/crop/630/https://ottogrid.ai",
   },
   {
     title: "aiagent.app",
@@ -36,13 +42,13 @@ const projects = [
   {
     title: "www.findappgaps.com",
     href: "https://www.findappgaps.com",
-    thumbnail:
-      "https://www.findappgaps.com/opengraph-image.png?fd2d072fb61c49f3",
+    thumbnail: "https://www.findappgaps.com/og.png",
   },
   {
     title: "faithbase.ai",
     href: "https://faithbase.ai",
-    thumbnail: "https://faithbase.ai/opengraph.jpg",
+    thumbnail:
+      "https://image.thum.io/get/width/1200/crop/630/https://faithbase.ai",
   },
 ]
 
